@@ -1,5 +1,5 @@
 # Random Quotes-Generator
-https://randomquotesgenerator.vercel.app
+https://randomquotesgenerator-mongopark.vercel.app
  is the link to the hosted page
 
 
